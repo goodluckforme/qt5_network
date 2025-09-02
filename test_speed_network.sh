@@ -1,0 +1,1 @@
+wget http://speedtest.tele2.net/10MB.zip
